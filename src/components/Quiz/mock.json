@@ -1,0 +1,135 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "As a part of a research project, you want to study the diffusion of different substances in a kidney cell from the luminal space towards the basal membrane in a rat. In order to establish the mechanism of diffusion of different substances, you administer a blocker of the Na/K pump. Which of the following is the most likely finding in the rat’s urine?",
+      "correct_answer": "glucosuria",
+      "incorrect_answers": [
+        "Albuminuria",
+        "Oliguria",
+        "Hyponatriuria",
+        "Hyperchloremia"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A 45-year-old patient comes to your office with dyspnea and cough. He tells you, “Doctor, I think the problem is because I have been smoking 2 packs/day for more than 30 years. I have been advised to stop, but I just can’t”. An ABG done reveals hypoxemia and on examination you find liver dullness in the 6th ICS on the right side. Chest X-rays shows flattening of the diaphragm. Which of the following is most likely responsible for his reduced blood oxygen concentration?",
+      "correct_answer": "Change in the Surface area of the membrane",
+      "incorrect_answers": [
+        "A decrease in the Concentration gradient across the membrane",
+        "A decrease in the Solubility of Oxygen",
+        "A decrease in the thickness of the membrane",
+        "An increase in the Molecular weight of Oxygen"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "As a part of a research project, you are about to investigate the difference in the rate of diffusion of various substances that share the same or similar chemical structure using protein carrier transport systems. First you dissolve glucose in the interstitial fluid surrounding an intestinal cell and note the rate of movement of glucose into the cell. After a few minutes you dissolve galactose and note that the rate of diffusion for glucose decreases considerably. What is the best explanation for the phenomenon after adding galactose?",
+      "correct_answer": "When you added galactose you created competition for the carrier",
+      "incorrect_answers": [
+        " You already reached the saturation of all carriers available on the cell",
+        "You changed the natural isomer of the substance when you added galactose",
+        "You decreased the concentration gradient of glucose when you added galactose",
+        "None of them"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A physiologist is studying the factors that affect movement of solutes and solvents between two compartments separated by a membrane only permeable to water. In compartment A, the concentration of glucose = 300 mOsm/L. In compartment B, the concentration of NaCl = 150 mOsm/L. In which direction will the water diffuse? ",
+      "correct_answer": "There will be no Water diffusion because of even distribution of solutes in the two compartments",
+      "incorrect_answers": [
+        "From A:B",
+        "From B:A",
+        "First from B: A until osmotic equilibrium stops water movement",
+        "There will be no Water diffusion because only solutes diffuse not solvents"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "You are studying the heart muscle of a rat in the lab and you note the presence of a Na/K pump in this cell. You also note that any time 3 Na+ molecules go inside the cell, 1 Ca++ molecule goes out of the cell. This is an example of which of the following transports?",
+      "correct_answer": "Countertransport or antiport",
+      "incorrect_answers": [
+        "Primary transport",
+        "Facilitated transport",
+        "Primary active transport",
+        "Simple diffusion"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Protein carriers transport substances that cannot readily diffuse across the membrane. There is no need for a transporter for gases and most lipid soluble substances because they readily penetrate the membrane.  Which of the following is true about protein mediated transport?",
+      "correct_answer": "D- glucose transporter will transport D- glucose but not L-glucose",
+      "incorrect_answers": [
+        "TM is inversely proportional to the number of functioning transporters",
+        " It gives no room for competition with substances of similar structures",
+        "It is faster to transport the substance using simple diffusion than using protein mediated transport",
+        "Once all the transporters are saturated, transport rate reduces"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A 46-year-old patient comes to your office with cough, dyspnea and weight loss. He said that the problem started 5 months ago and now he cannot deal with this problem any longer. He has a history of smoking for more than 20 years. You order a chest X-ray and you find a centrally located mass in the left lung. To further establish your diagnosis you deicide to measure the urine osmolarity, which is high. The concentration of Na in the plasma is 122mmol/L. To what can these findings be compared in the ICF and ECF?",
+      "correct_answer": "Like a gain of hypotonic fluid",
+      "incorrect_answers": [
+        " Like a gain of hypertonic fluid",
+        "Like a loss of hypotonic fluid",
+        "Like a gain of isotonic fluid",
+        "None of them"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A professional athlete is about to start the Arizona’s Marathon. He starts running but in the fifth mile, the patient starts getting confused and develops redness on his face. After this, the patient is retired from the competition, you note that the patient is very hot, with a temperature is 106F and he is not sweating at all. Your expected findings in the ICF and ECF of this patient will be:",
+      "correct_answer": "No change",
+      "incorrect_answers": [
+        "Like a gain of hypotonic fluid",
+        "Like a gain of hypertonic fluid",
+        "Like a loss of hypertonic fluid",
+        "None of them"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A 35 year old patient comes to you office with polyuria and polydipsia. He said that the problem started few weeks ago. You order a urine osmolarity, which is low, and a plasma osmolarity, which is high. After other tests, you determine that the patient has central diabetes insipidus. Which of the following will be your finding if you compare solute concentration in the ECF and ICF after the administration of vasopressin with the patient’s volume status in the two compartments?",
+      "correct_answer": "Normal volume and solute concentration between the ECF and ICF",
+      "incorrect_answers": [
+        "Decreased solute concentration in the ECF and increased volume in the ECF and ICF",
+        "Increased solute concentration in the ECF and decreased volume in the ICF",
+        "Normal solute concentration and increased volume in the ECF",
+        "None of them"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the physiology laboratory, a group of medical students decided to test one of the new concepts they learned in the classroom. One of them volunteered to be the subject. His hematocrit reading was 60 and his plasma volume was measured to be 3L.He weighs188lbs and he is 6ft tall. His blood pressure was however not checked. What is His total blood volume?",
+      "correct_answer": "7.5 L",
+      "incorrect_answers": [
+        "6.5L",
+        " 7.0 L",
+        "8.0 L",
+        "Cannot be determined since his blood pressure was not checked"
+      ]
+    }
+  ]
+}
